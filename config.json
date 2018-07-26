@@ -1,1 +1,1 @@
-{"token":"","prefix":"!pp "}
+{"token": process.env.BOT_TOKEN,"prefix":"!pp "}
